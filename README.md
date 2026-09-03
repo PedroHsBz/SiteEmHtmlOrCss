@@ -4,7 +4,7 @@ Neste repositorio tem arquivos de aulas de Html e Css, onde foi praticado o conc
 
 > Instituto Federal do Triângulo Mineiro — Campus Patrocínio
 > 
-> Course: Desenvolvimento Web
+> Course: Desenvolvimento Web I
 > 
 > 
 > Student: Pedro Henrique Bazilio
